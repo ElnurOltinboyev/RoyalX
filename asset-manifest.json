@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-royal_x/static/css/main.667555a0.css",
+    "main.js": "/react-royal_x/static/js/main.109ac179.js",
+    "index.html": "/react-royal_x/index.html",
+    "main.667555a0.css.map": "/react-royal_x/static/css/main.667555a0.css.map",
+    "main.109ac179.js.map": "/react-royal_x/static/js/main.109ac179.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.667555a0.css",
+    "static/js/main.109ac179.js"
+  ]
+}
